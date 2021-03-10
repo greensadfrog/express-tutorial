@@ -453,7 +453,8 @@ router.delete('/:id', (req, res) => {
 })
 
 ```
-
+---
+Код та інші джерела можна знайти [тут](https://github.com/greensadfrog/express-tutorial).
 ### Тестування за допомогою Postman
 ___
 
